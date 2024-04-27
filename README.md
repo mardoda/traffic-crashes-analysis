@@ -1,4 +1,4 @@
-# Traffic Crashes - People Analysis Using PySpark
+# Traffic Crashes Analysis 
 
 ## Introduction
 This project analyzes traffic crash data focusing on the individuals involved, using data sourced from the City of Chicago's Data Portal. The analysis is performed using PySpark to handle and process the data efficiently.
